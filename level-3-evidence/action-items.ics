@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sunny AI for Kids//Level3 Fictional Demo//EN
+BEGIN:VEVENT
+UID:fictional-harbour-view-crm-confirmation@sunny-ai-kids.demo
+DTSTAMP:20260820T140000Z
+DTSTART:20260903T010000Z
+DTEND:20260903T013000Z
+SUMMARY:Fictional Harbour View Primary CRM confirmation deadline
+DESCRIPTION:Sunny confirms fictional Harbour View Primary booking and moves fictional deal to Won by 3 September 2026 (presentation practice only).
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Fictional CRM confirmation deadline in 15 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fictional-harbour-view-materials@sunny-ai-kids.demo
+DTSTAMP:20260820T140000Z
+DTSTART:20260909T020000Z
+DTEND:20260909T023000Z
+SUMMARY:Fictional Teachable Machine teaching-materials deadline
+DESCRIPTION:David Kim sends fictional updated teaching materials to Sunny by 9 September 2026 (presentation practice only).
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Fictional teaching-materials deadline in 15 minutes
+END:VALARM
+END:VEVENT
+END:VCALENDAR
