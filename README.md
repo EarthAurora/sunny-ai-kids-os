@@ -1,6 +1,8 @@
 # Sunny AI for Kids Operations OS
 
-This repository is the fictional presentation build of a future private education-centre operating system. It demonstrates how Sunny and her team could navigate operational modules, use controlled AI workers and preserve company knowledge without publishing real client, learner, staff or financial records.
+This repository is the fictional product-demo build of a future private education-centre operating system. It is designed for Sunny to review whether one connected operating view can solve the team's current pain point: information and follow-up spread across separate sales, staffing, programme, inventory, calendar, meeting and reporting tools.
+
+The Saturday presentation is a business-requirements discussion, not primarily a course-assignment walkthrough. The main journey demonstrates how a school enquiry could move through class confirmation, tutor assignment, materials readiness, delivery follow-up and Sunny's management briefing.
 
 ## Operating model
 
@@ -12,9 +14,22 @@ The real-world design has three connected layers:
 
 AI workers sit across these layers. Each reads an approved scope, prepares a preview and writes only after human approval. Obsidian is a knowledge layer, not the authoritative database for raw personal, payroll, banking or accounting records.
 
+## Product-demo outcome
+
+The review should identify:
+
+- the three must-have functions for the first private production release;
+- the biggest missing workflow;
+- the functions that can wait;
+- the roles that need access and what each role may see or change;
+- the actions that must always require human approval.
+
+Level 2 and Level 3 materials remain available as secondary technical evidence.
+
 ## Included
 
 - `index.html`: Operations OS home screen and WMS entry point.
+- `sunny-review.html`: Business-requirements review for Sunny; responses stay in the browser and can be printed or saved as PDF.
 - `architecture.html`: Real-world system and data-boundary map.
 - `ai-workers.html`: Sunny AI worker register and approval model.
 - `weather.html`: Static weather watch that fetches `data.json`; no weather values are hard-coded in its HTML.
