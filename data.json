@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-20T10:46:57.758Z",
+  "fetchedAt": "2026-08-20T10:48:29.765Z",
   "source": {
     "name": "Hong Kong Observatory current weather report via DATA.GOV.HK",
     "url": "https://data.weather.gov.hk/weatherAPI/opendata/weather.php?dataType=rhrread&lang=en",
