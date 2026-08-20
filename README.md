@@ -1,10 +1,22 @@
 # Sunny AI for Kids Operations OS
 
-Level 2 Personal OS adapted as an education-centre operations hub. It links the Sunny inventory WMS with a classroom weather watch for activity planning.
+This repository is the fictional presentation build of a future private education-centre operating system. It demonstrates how Sunny and her team could navigate operational modules, use controlled AI workers and preserve company knowledge without publishing real client, learner, staff or financial records.
+
+## Operating model
+
+The real-world design has three connected layers:
+
+1. **Private Operations Hub** — the authenticated interface used by Sunny and her team.
+2. **Systems of record** — CRM, Tutor Hub, WMS, calendar, accounting software and a private database hold live records.
+3. **Obsidian Company Brain** — preserves approved policies, context, decisions, meeting knowledge, project learning and management reports.
+
+AI workers sit across these layers. Each reads an approved scope, prepares a preview and writes only after human approval. Obsidian is a knowledge layer, not the authoritative database for raw personal, payroll, banking or accounting records.
 
 ## Included
 
 - `index.html`: Operations OS home screen and WMS entry point.
+- `architecture.html`: Real-world system and data-boundary map.
+- `ai-workers.html`: Sunny AI worker register and approval model.
 - `weather.html`: Static weather watch that fetches `data.json`; no weather values are hard-coded in its HTML.
 - `scripts/fetch-weather.mjs`: One key-free request to the official HKO Current Weather Report API, then saves only the displayed fields.
 - `.github/workflows/update-weather.yml`: Runs every six hours and can be run manually with `workflow_dispatch`.
@@ -19,4 +31,7 @@ Level 2 Personal OS adapted as an education-centre operations hub. It links the 
 ## Safety and limits
 
 - No API key, token, password, personal email, account or client data is included.
+- All examples and people shown in this public repository are fictional presentation data.
+- The production copy must use authentication, role-based database policies, audit logging and a private deployment.
+- The Obsidian vault and live operational data are not published here.
 - Weather is an operational prompt only. Check official warnings before any safety-critical decision or parent communication.
