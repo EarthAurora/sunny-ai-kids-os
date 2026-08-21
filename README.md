@@ -2,7 +2,7 @@
 
 This repository is the fictional product-demo build of a future private education-centre operating system. It is designed for Sunny to review whether one connected operating view can solve the team's current pain point: information and follow-up spread across separate sales, staffing, programme, inventory, calendar, meeting and reporting tools.
 
-The Saturday presentation is a business-requirements discussion, not primarily a course-assignment walkthrough. The main journey demonstrates how a school enquiry could move through class confirmation, tutor assignment, materials readiness, delivery follow-up and Sunny's management briefing.
+The Saturday presentation is a business-requirements discussion, not primarily a course-assignment walkthrough. The main journey demonstrates how a fictional school enquiry could move through class confirmation, tutor assignment, materials readiness, delivery follow-up and Sunny's management briefing. The public product demo intentionally links the fictional CRM, Staff Admin and inventory demonstration sites so Sunny can assess the connected experience.
 
 ## Operating model
 
@@ -30,6 +30,7 @@ Level 2 and Level 3 materials remain available as secondary technical evidence.
 
 - `README.md`: Product purpose, operating model, repository map, source record and safety boundary.
 - `index.html`: Single-platform product-demo dashboard and connected operating journey.
+- `daily-operations.html`: Fictional daily working scenario connecting tasks, eight platform views, all nine AI workers and Obsidian company memory.
 - `sunny-review.html`: Business-requirements review for Sunny; responses stay in the browser and can be printed or saved as PDF.
 - `architecture.html`: Real-world system and data-boundary map.
 - `ai-workers.html`: Sunny AI worker register and approval model.
@@ -52,6 +53,7 @@ Level 2 and Level 3 materials remain available as secondary technical evidence.
 
 - No API key, token, password, personal email, account or client data is included.
 - All examples and people shown in this public repository are fictional presentation data.
-- The production copy must use authentication, role-based database policies, audit logging and a private deployment.
+- The linked CRM, Staff Admin and inventory sites are fictional demonstrations; they are not Sunny's production systems.
+- Sunny's eventual production copy will be delivered separately and must use authentication, role-based database policies, audit logging and a private deployment.
 - The Obsidian vault and live operational data are not published here.
 - Weather is an operational prompt only. Check official warnings before any safety-critical decision or parent communication.
