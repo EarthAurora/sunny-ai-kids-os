@@ -28,12 +28,17 @@ Level 2 and Level 3 materials remain available as secondary technical evidence.
 
 ## Included
 
-- `index.html`: Operations OS home screen and WMS entry point.
+- `README.md`: Product purpose, operating model, repository map, source record and safety boundary.
+- `index.html`: Single-platform product-demo dashboard and connected operating journey.
 - `sunny-review.html`: Business-requirements review for Sunny; responses stay in the browser and can be printed or saved as PDF.
 - `architecture.html`: Real-world system and data-boundary map.
 - `ai-workers.html`: Sunny AI worker register and approval model.
 - `weather.html`: Static weather watch that fetches `data.json`; no weather values are hard-coded in its HTML.
+- `data.json`: Latest saved, limited HKO weather fields used by the static weather page.
 - `scripts/fetch-weather.mjs`: One key-free request to the official HKO Current Weather Report API, then saves only the displayed fields.
+- `scripts/check-data.mjs`: CI validation for weather types, ranges, timestamp and warning-list shape.
+- `level-2-evidence/`: Fictional inventory-cleaning workbook and rendered weekly, monthly and vault-health review evidence.
+- `level-3-evidence/`: Fictional meeting-to-calendar workflow and downloadable `.ics` action reminders.
 - `.github/workflows/update-weather.yml`: Runs every six hours and can be run manually with `workflow_dispatch`.
 
 ## Source and compliance record

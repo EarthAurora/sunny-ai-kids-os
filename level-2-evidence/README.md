@@ -15,9 +15,9 @@ All data in this folder is fictional practice data. It does not contain real lea
 ## Contents
 
 - [`data-cleaning/sunny-level2-inventory-cleaning-practice.xlsx`](data-cleaning/sunny-level2-inventory-cleaning-practice.xlsx) — fictional raw, clean and rejected inventory rows, plus a category summary and chart.
-- [`reviews/weekly-baseline.md`](reviews/weekly-baseline.md) — an evidence-based first weekly review.
-- [`reviews/monthly-fictional-practice.md`](reviews/monthly-fictional-practice.md) — a clearly labelled fictional presentation-month review.
-- [`reviews/vault-health-check.md`](reviews/vault-health-check.md) — a read-only vault health assessment.
+- [`reviews/weekly-baseline.md`](reviews/weekly-baseline.html) — an evidence-based first weekly review.
+- [`reviews/monthly-fictional-practice.md`](reviews/monthly-fictional-practice.html) — a clearly labelled fictional presentation-month review.
+- [`reviews/vault-health-check.md`](reviews/vault-health-check.html) — a read-only vault health assessment.
 
 ## Inventory-cleaning result
 
