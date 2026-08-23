@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-23T02:02:33.095Z",
+  "fetchedAt": "2026-08-23T07:05:16.050Z",
   "source": {
     "name": "Hong Kong Observatory current weather report via DATA.GOV.HK",
     "url": "https://data.weather.gov.hk/weatherAPI/opendata/weather.php?dataType=rhrread&lang=en",
@@ -9,11 +9,14 @@
     "clientFrequency": "One API request every six hours"
   },
   "weather": {
-    "temperature": 29,
+    "temperature": 31,
     "temperatureUnit": "°C",
-    "humidity": 81,
+    "humidity": 73,
     "humidityUnit": "%",
-    "observedAt": "2026-08-23T09:00:00+08:00",
-    "warnings": []
+    "observedAt": "2026-08-23T15:00:00+08:00",
+    "warnings": [
+      "The Thunderstorm Warning has been issued. It will remain effective until 4:00 p.m. today. Isolated thunderstorms are expected to occur over Lantau, New Territories.",
+      "The Very Hot Weather Warning is now in force. The public should beware of heat stroke and drink more water."
+    ]
   }
 }
