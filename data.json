@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-24T07:31:39.791Z",
+  "fetchedAt": "2026-08-24T13:17:05.445Z",
   "source": {
     "name": "Hong Kong Observatory current weather report via DATA.GOV.HK",
     "url": "https://data.weather.gov.hk/weatherAPI/opendata/weather.php?dataType=rhrread&lang=en",
@@ -9,13 +9,13 @@
     "clientFrequency": "One API request every six hours"
   },
   "weather": {
-    "temperature": 33,
+    "temperature": 30,
     "temperatureUnit": "°C",
-    "humidity": 71,
+    "humidity": 79,
     "humidityUnit": "%",
-    "observedAt": "2026-08-24T15:00:00+08:00",
+    "observedAt": "2026-08-24T21:00:00+08:00",
     "warnings": [
-      "The Very Hot Weather Warning is now in force. The public should beware of heat stroke and drink more water."
+      "The Thunderstorm Warning has been issued. It will remain effective until 9:30 p.m. today. Isolated thunderstorms are expected to occur over Eastern Waters of Hong Kong."
     ]
   }
 }
