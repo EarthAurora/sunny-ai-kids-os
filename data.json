@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-30T05:30:23.681Z",
+  "fetchedAt": "2026-08-30T11:59:46.292Z",
   "source": {
     "name": "Hong Kong Observatory current weather report via DATA.GOV.HK",
     "url": "https://data.weather.gov.hk/weatherAPI/opendata/weather.php?dataType=rhrread&lang=en",
@@ -11,11 +11,9 @@
   "weather": {
     "temperature": 29,
     "temperatureUnit": "°C",
-    "humidity": 83,
+    "humidity": 76,
     "humidityUnit": "%",
-    "observedAt": "2026-08-30T13:00:00+08:00",
-    "warnings": [
-      "The Thunderstorm Warning has been issued. It will remain effective until 3:00 p.m. today. Isolated thunderstorms are expected to occur over Hong Kong."
-    ]
+    "observedAt": "2026-08-30T19:00:00+08:00",
+    "warnings": []
   }
 }
