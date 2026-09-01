@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-01T05:17:14.035Z",
+  "fetchedAt": "2026-09-01T11:44:58.595Z",
   "source": {
     "name": "Hong Kong Observatory current weather report via DATA.GOV.HK",
     "url": "https://data.weather.gov.hk/weatherAPI/opendata/weather.php?dataType=rhrread&lang=en",
@@ -11,12 +11,11 @@
   "weather": {
     "temperature": 27,
     "temperatureUnit": "°C",
-    "humidity": 90,
+    "humidity": 93,
     "humidityUnit": "%",
-    "observedAt": "2026-09-01T13:00:00+08:00",
+    "observedAt": "2026-09-01T19:00:00+08:00",
     "warnings": [
-      "The Tropical Cyclone Signal No. 1 has been issued.",
-      "The Thunderstorm Warning has been issued. It will remain effective until 1:30 p.m. today. A few squally thunderstorms are expected to occur over Hong Kong."
+      "The Tropical Cyclone Signal No. 1 has been issued."
     ]
   }
 }
