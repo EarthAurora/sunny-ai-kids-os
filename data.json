@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-01T21:06:31.867Z",
+  "fetchedAt": "2026-09-02T04:42:47.372Z",
   "source": {
     "name": "Hong Kong Observatory current weather report via DATA.GOV.HK",
     "url": "https://data.weather.gov.hk/weatherAPI/opendata/weather.php?dataType=rhrread&lang=en",
@@ -9,11 +9,11 @@
     "clientFrequency": "One API request every six hours"
   },
   "weather": {
-    "temperature": 26,
+    "temperature": 28,
     "temperatureUnit": "°C",
-    "humidity": 89,
+    "humidity": 75,
     "humidityUnit": "%",
-    "observedAt": "2026-09-02T05:00:00+08:00",
+    "observedAt": "2026-09-02T12:00:00+08:00",
     "warnings": [
       "The Tropical Cyclone Signal No. 1 has been issued."
     ]
