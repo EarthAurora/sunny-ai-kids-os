@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T04:36:58.139Z",
+  "fetchedAt": "2026-09-05T10:42:01.209Z",
   "source": {
     "name": "Hong Kong Observatory current weather report via DATA.GOV.HK",
     "url": "https://data.weather.gov.hk/weatherAPI/opendata/weather.php?dataType=rhrread&lang=en",
@@ -11,9 +11,9 @@
   "weather": {
     "temperature": 30,
     "temperatureUnit": "°C",
-    "humidity": 71,
+    "humidity": 74,
     "humidityUnit": "%",
-    "observedAt": "2026-09-05T12:00:00+08:00",
+    "observedAt": "2026-09-05T18:00:00+08:00",
     "warnings": []
   }
 }
