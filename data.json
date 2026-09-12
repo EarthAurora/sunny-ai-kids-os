@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-12T10:54:39.586Z",
+  "fetchedAt": "2026-09-12T15:35:55.236Z",
   "source": {
     "name": "Hong Kong Observatory current weather report via DATA.GOV.HK",
     "url": "https://data.weather.gov.hk/weatherAPI/opendata/weather.php?dataType=rhrread&lang=en",
@@ -9,11 +9,13 @@
     "clientFrequency": "One API request every six hours"
   },
   "weather": {
-    "temperature": 29,
+    "temperature": 28,
     "temperatureUnit": "°C",
-    "humidity": 79,
+    "humidity": 77,
     "humidityUnit": "%",
-    "observedAt": "2026-09-12T18:00:00+08:00",
-    "warnings": []
+    "observedAt": "2026-09-12T23:00:00+08:00",
+    "warnings": [
+      "The Strong Monsoon Signal was issued at 11:00 p.m."
+    ]
   }
 }
