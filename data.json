@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-25T05:03:58.131Z",
+  "fetchedAt": "2026-09-25T11:57:25.368Z",
   "source": {
     "name": "Hong Kong Observatory current weather report via DATA.GOV.HK",
     "url": "https://data.weather.gov.hk/weatherAPI/opendata/weather.php?dataType=rhrread&lang=en",
@@ -9,14 +9,13 @@
     "clientFrequency": "One API request every six hours"
   },
   "weather": {
-    "temperature": 32,
+    "temperature": 29,
     "temperatureUnit": "°C",
-    "humidity": 51,
+    "humidity": 70,
     "humidityUnit": "%",
-    "observedAt": "2026-09-25T13:00:00+08:00",
+    "observedAt": "2026-09-25T19:00:00+08:00",
     "warnings": [
-      "The Fire Danger Warning is Yellow and the fire risk is high.",
-      "The Very Hot Weather Warning is now in force. The public should beware of heat stroke and drink more water."
+      "The Fire Danger Warning is Yellow and the fire risk is high."
     ]
   }
 }
