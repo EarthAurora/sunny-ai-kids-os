@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-01T22:45:17.324Z",
+  "fetchedAt": "2026-10-02T05:48:22.339Z",
   "source": {
     "name": "Hong Kong Observatory current weather report via DATA.GOV.HK",
     "url": "https://data.weather.gov.hk/weatherAPI/opendata/weather.php?dataType=rhrread&lang=en",
@@ -11,11 +11,11 @@
   "weather": {
     "temperature": 29,
     "temperatureUnit": "°C",
-    "humidity": 81,
+    "humidity": 85,
     "humidityUnit": "%",
-    "observedAt": "2026-10-02T06:00:00+08:00",
+    "observedAt": "2026-10-02T13:00:00+08:00",
     "warnings": [
-      "The Thunderstorm Warning was issued at 6:10 a.m. It will remain effective until 8:30 a.m. today. Isolated thunderstorms are expected to occur over New Territories."
+      "The Thunderstorm Warning has been issued. It will remain effective until 2:30 p.m. today. Isolated thunderstorms are expected to occur over New Territories East."
     ]
   }
 }
