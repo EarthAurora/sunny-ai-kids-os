@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-24T11:12:23.819Z",
+  "fetchedAt": "2026-10-24T16:02:09.175Z",
   "source": {
     "name": "Hong Kong Observatory current weather report via DATA.GOV.HK",
     "url": "https://data.weather.gov.hk/weatherAPI/opendata/weather.php?dataType=rhrread&lang=en",
@@ -9,13 +9,11 @@
     "clientFrequency": "One API request every six hours"
   },
   "weather": {
-    "temperature": 29,
+    "temperature": 27,
     "temperatureUnit": "°C",
-    "humidity": 53,
+    "humidity": 61,
     "humidityUnit": "%",
-    "observedAt": "2026-10-24T19:00:00+08:00",
-    "warnings": [
-      "The Fire Danger Warning is Red and the fire risk is extreme."
-    ]
+    "observedAt": "2026-10-24T23:00:00+08:00",
+    "warnings": []
   }
 }
