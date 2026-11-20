@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-20T07:26:36.317Z",
+  "fetchedAt": "2026-11-20T20:28:58.497Z",
   "source": {
     "name": "Hong Kong Observatory current weather report via DATA.GOV.HK",
     "url": "https://data.weather.gov.hk/weatherAPI/opendata/weather.php?dataType=rhrread&lang=en",
@@ -9,13 +9,12 @@
     "clientFrequency": "One API request every six hours"
   },
   "weather": {
-    "temperature": 13,
+    "temperature": 15,
     "temperatureUnit": "°C",
-    "humidity": 91,
+    "humidity": 62,
     "humidityUnit": "%",
-    "observedAt": "2026-11-20T15:00:00+08:00",
+    "observedAt": "2026-11-21T04:00:00+08:00",
     "warnings": [
-      "The Strong Monsoon Signal has been issued.",
       "The Cold Weather Warning is now in force. Cold weather might cause adverse health effects. Members of the public should take care to keep warm."
     ]
   }
